@@ -63,7 +63,7 @@ tags:
 
 ## 행렬식
 
-- 행렬식이란? 정사각행렬 $$ A $$를 하나의 수로써 대응시키는 특별한 함수. det $$ A = | A | $$
+- 행렬식이란? 정사각행렬 $$ A $$를 하나의 수로써 대응시키는 특별한 함수. det $$ A = \| A \| $$
 
 - 이때, $$ A $$가
 
@@ -71,7 +71,8 @@ tags:
 
     2) 1 X 1 -> det ($$a$$) = $$a$$
 
-    3) 2 X 2 -> det $$ \begin{pmatrix} a_11 & a_12 \\ a_21 & a_22 \end{pmatrix} = a_11a_22 - a_12a_21 $$
+    3) 2 X 2 -> det $$ \begin{pmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{pmatrix} = a_{11}a_{22} - a_{12}a_{21} $$
 
-    4) 3 X 3 -> det $$ \begin{pmatrix} a_11 & a_12 & a_13 \\ a_21 & a_22 & a_23 \\ a_31 & a_32 & a_33 \end{pmatrix} = a_11M_11 - a_12M_12 + a_13M_13 = a_11\begin{matrix} a_22 & a_23 \\ a_32 & a_33 \end{matrix} - a_12\begin{pmatrix} a_21 & a_23 \\ a_31 & a_33 \end{pmatrix} + a_13\begin{pmatrix} a_21 & a_22 \\ a_31 & a_32 \end{pmatrix} = a_11a_22a_33 + a_12a_23a_31 + a_13a_21a_32 - a_13a_22a_31 - a_11a_23a_32 - a_12a_21a_33 $$
+    4) 3 X 3 -> det $$ \begin{pmatrix} a_{11} & a_{12} & a_{13} \\ a_{21} & a_{22} & a_{23} \\ a_{31} & a_{32} & a_{33} \end{pmatrix}
+    = a_{11}M_{11} - a_{12}M_{12} + a_{13}M_{13} = a_{11}\begin{matrix} a_{22} & a_{23} \\ a_{32} & a_{33} \end{matrix} - a_{12}\begin{pmatrix} a_{21} & a_{23} \\ a_{31} & a_{33} \end{pmatrix} + a_{13}\begin{pmatrix} a_{21} & a_{22} \\ a_{31} & a_{32} \end{pmatrix} = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{13}a_{22}a_{31} - a_{11}a_{23}a_{32} - a_{12}a_{21}a_{33} $$
 
