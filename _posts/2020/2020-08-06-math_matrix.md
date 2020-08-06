@@ -48,5 +48,5 @@ tags:
 - 행렬의 표현
     - 예를 들어, $$ x + 2y = 5 $$ 와 $$ 2x + 3y = 8 $$ 은
         - $$ \begin{pmatrix} 1 & 2 & 5 \\ 2 & 3 & 8 \end{pmatrix} $$ 표현 --> 가우스 조던 소거법
-        - $$ \begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 5 \\ 8 \end{pmatrix} $$
+        - $$ \begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 5 \\ 8 \end{pmatrix} $$ 표현 --> 역행렬 이용
 
