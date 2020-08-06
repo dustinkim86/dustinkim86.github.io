@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Regression(회귀)
-date: 2020-02-10
-summary: 다중 회귀 분석과 규제 선형 모델
-categories: Python
+title: Regression
 mathjax: true
+tags:
+  - python
 ---
 
+<br/>
 
 ## 다중 회귀
 - 설명변수(독립변수)가 2개 이상인 회귀 모형
