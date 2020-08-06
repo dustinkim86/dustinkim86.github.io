@@ -63,7 +63,7 @@ tags:
 
 ## 행렬식
 
-- 행렬식이란? 정사각행렬 $$ A $$를 하나의 수로써 대응시키는 특별한 함수. det $$ A = \Vert A $$
+- 행렬식이란? 정사각행렬 $$ A $$를 하나의 수로써 대응시키는 특별한 함수. det $$ A = \begin{vmatrix} A \end{vmatrix} $$
 
 - 이때, $$ A $$가
 
@@ -75,9 +75,9 @@ tags:
 
     4) 3 X 3 -> det $$ \begin{pmatrix} a_{11} & a_{12} & a_{13} \\ a_{21} & a_{22} & a_{23} \\ a_{31} & a_{32} & a_{33} \end{pmatrix} $$
 
-    ​	$$ = a_{11}M_{11} - a_{12}M_{12} + a_{13}M_{13} $$_
+    ​	$$ = a_{11}M_{11} - a_{12}M_{12} + a_{13}M_{13} $$
 
-    ​	$$ = a_{11}\begin{bmatrix} a_{22} & a_{23} \\ a_{32} & a_{33} \end{bmatrix} - a_{12}\begin{bmatrix} a_{21} & a_{23} \\ a_{31} & a_{33} \end{bmatrix} + a_{13}\begin{bmatrix} a_{21} & a_{22} \\ a_{31} & a_{32} \end{bmatrix} $$
+    ​	$$ = a_{11}\begin{vmatrix} a_{22} & a_{23} \\ a_{32} & a_{33} \end{vmatrix} - a_{12}\begin{vmatrix} a_{21} & a_{23} \\ a_{31} & a_{33} \end{vmatrix} + a_{13}\begin{vmatrix} a_{21} & a_{22} \\ a_{31} & a_{32} \end{vmatrix} $$
 
     ​	$$ = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{13}a_{22}a_{31} - a_{11}a_{23}a_{32} - a_{12}a_{21}a_{33} $$
 
