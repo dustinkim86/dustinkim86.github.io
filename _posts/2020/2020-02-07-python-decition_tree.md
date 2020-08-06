@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Decision Tree(의사결정나무)
-subtitle : Python
-tags: [Python]
-author: dustinkim86
-comments : True
-use_math: true
+title: Decision Tree
+mathjax: true
+tags:
+  - python
 ---
 
-
+<br/>
 
 ## 결정 트리(Decision Tree)
 - 모델의 시각화가 직관적이고 가독성이 높아 이해하기 쉬운 알고리즘
