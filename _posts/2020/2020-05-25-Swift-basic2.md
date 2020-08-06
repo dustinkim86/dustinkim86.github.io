@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Swift 기초(2)
-date: 2020-05-25
-summary: 구조체,
-categories: Swift
+title: Swift Basic(2)
 mathjax: true
-
+tags:
+  - swift
 ---
 
 <br/>
