@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Swift 기초(1)
-date: 2020-05-21
-summary: 변수와 상수, 데이터 타입, 컬렉션, 집합과 정렬, 조건문과 반복문, 옵셔널, 함수, 클로저
-categories: Swift
+title: Swift Basic(1)
 mathjax: true
+tags:
+  - swift
 ---
 
 <br/>
