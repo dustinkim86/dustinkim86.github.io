@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Coding Test Study
-date: 2020-05-06
-summary: 코드시그널(코드파이트) 문제 풀이 스터디
-categories: Python
 mathjax: true
+tags:
+  - python
 ---
 
 <br/>
