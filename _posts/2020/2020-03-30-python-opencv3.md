@@ -1,11 +1,12 @@
 ---
 layout: post
-title: OpenCV(3)
-date: 2020-03-30
-summary: DNN, caffe, YOLO
-categories: Python
+title: OpenCV - DNN, caffe, YOLO
 mathjax: true
+tags:
+  - python
 ---
+
+<br/>
 
 ### Face Detection
 
