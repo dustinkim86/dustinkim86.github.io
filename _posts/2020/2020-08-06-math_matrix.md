@@ -81,3 +81,14 @@ tags:
 
     ​	$$ = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{13}a_{22}a_{31} - a_{11}a_{23}a_{32} - a_{12}a_{21}a_{33} $$
 
+    5) 4 X 4 -> det $$ A = a_{11}M_{11} - a_{12}M_{12} + a_{13}M_{13} - a_{14}M_{14} $$
+
+- 역행렬
+
+    - 행렬식이 0이면 역행렬이 존재하지 않는다. 즉, 행렬식이 0이 아닌 정사각행렬 $$A$$의 역행렬 $$A^{-1}$$은
+
+        $$ A^{-1} = \frac{{1}{det A}}\begin{pmatrix} C_{11} & C_{21} & \cdots \\ C_{12} & C_{22} & \cdots \\ \cdots & \cdots & \cdots \end{pmatrix} $$
+
+        ​	(단, $$ C_{ij} = (-1)^{i+j}M_{ij} $$)
+
+        ex. $$ \begin{pmatrix} a & b \\ c & d \end{pmatrix}^{-1} = \frac{{1}{ad - bc}}\begin{pmatrix} d & -b \\ -c & a \end{pmatrix} $$
