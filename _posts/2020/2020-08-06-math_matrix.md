@@ -93,3 +93,7 @@ tags:
 
         ex. $$ \begin{pmatrix} a & b \\ c & d \end{pmatrix}^{-1} = \frac{1}{ad - bc}\begin{pmatrix} d & -b \\ -c & a \end{pmatrix} $$
 
+- 크래머 공식
+    - 연립일차방정식 $$ AX = B $$에서, $$A$$가 행렬식이 0이 아닌 정사각행렬일 때, $$ x_j = \frac{det A_j}{det A}
+    - 단, $$ j = 1, \cdots, n $$ 이고 $$A_j$$는 $$A$$의 $$j$$번째 열을 $$B$$의 원소로 바꾼 행렬이다.
+
