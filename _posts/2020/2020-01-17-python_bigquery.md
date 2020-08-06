@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Google Bigquery / pymysql
-subtitle : Python
-tags: [Python, Bigquery]
-author: dustinkim86
-comments : True
+title: Google Bigquery & pymysql
+mathjax: true
+tags:
+  - python
 ---
 
+<br/>
 
 
 ## Google Bigquery
