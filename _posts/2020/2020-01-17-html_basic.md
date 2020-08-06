@@ -1,12 +1,12 @@
 ---
 layout: post
-title: HTML
-subtitle : HTML Basic
-tags: [HTML]
-author: dustinkim86
-comments : True
+title: HTML Basic
+mathjax: true
+tags:
+  - HTML
 ---
 
+<br/>
 
 #### 용어 정리
 - 하이퍼링크 : 인터넷에서 문서 사이를 쉽게 이동할 수 있는 기능
