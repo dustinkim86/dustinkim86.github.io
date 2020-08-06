@@ -1,11 +1,12 @@
 ---
-layout:     post
-title:      MySQL
-date:       2020-01-17
-summary:    MySQL 기초
-categories: MySQL
+layout: post
+title: MySQL
 mathjax: true
+tags:
+  - MySQL
 ---
+
+<br/>
 
 ### 마스터 테이블 생성
 ```sql
