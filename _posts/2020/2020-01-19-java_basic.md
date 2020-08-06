@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Java
-subtitle : Java Basic
-tags: [Java]
-author: dustinkim86
-comments : True
+title: Java Basic
+mathjax: true
+tags:
+  - java
 ---
+
+<br/>
+
 
 - Eclipse 설치하기
   - *Windows*
