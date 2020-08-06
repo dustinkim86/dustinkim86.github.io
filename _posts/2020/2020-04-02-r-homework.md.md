@@ -1,13 +1,13 @@
 ---
 layout: post
-title: R one-day Homework
-date: 2020-04-02
-summary: 데이터 전처리, 시각화, 트위터 크롤링과 워드클라우드
-categories: R
+title: R One-day Homework - 데이터 전처리, 시각화, 트위터 크롤링과 워드클라우드
 mathjax: true
+tags:
+  - R
 ---
 
 <br/>
+
 ### Date : 2020/04/02
 
 <br/>
