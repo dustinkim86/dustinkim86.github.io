@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Data Handling(데이터 핸들링)
-subtitle : R language
-tags: [R]
-author: dustinkim86
-comments : True
+title: 데이터 핸들링
+mathjax: true
+tags:
+  - R
 ---
 
+<br/>
 
 ## 데이터 핸들링
 ### 수집한 원형 데이터를 데이터 분석의 목적에 맞게 가공,처리하는 과정
