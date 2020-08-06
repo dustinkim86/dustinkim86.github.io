@@ -1,13 +1,10 @@
 ---
 layout: post
-title: OpenCV(5)
-date: 2020-04-13
-summary: Face recognition Module을 이용한 얼굴 인식
-categories: Python
+title: OpenCV - Face recognition Module을 이용한 얼굴 인식
 mathjax: true
+tags:
+  - python
 ---
-
-
 
 <br/>
 
