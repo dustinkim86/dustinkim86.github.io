@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Evaluation(평가)
-subtitle : Python 분석평가
-tags: [Python]
-author: dustinkim86
-comments : True
+title: Evaluation
+mathjax: true
+tags:
+  - python
 ---
 
+<br/>
 
 # **평가(Evaluation)**
 
