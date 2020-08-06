@@ -1,11 +1,12 @@
 ---
 layout: post
-title: OpenCV(1)
-date: 2020-03-09
-summary: 모듈 설치와 이미지 조작하기
-categories: Python
+title: OpenCV :: 모듈 설치와 이미지 조작하기
 mathjax: true
+tags:
+  - python
 ---
+
+<br/>
 
 ### OpenCV(Open Source Computer Vision)
 
