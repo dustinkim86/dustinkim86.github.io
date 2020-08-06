@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Dimension reduction(차원축소)
-date: 2020-02-19
-summary: 차원축소의 특징 / PCA
-categories: Python
+title: Demension Reduction(차원 축소)
 mathjax: true
+tags:
+  - python
 ---
+
+<br/>
 
 
 ## 차원 축소(Dimension reduction)
