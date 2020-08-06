@@ -56,8 +56,8 @@ tags:
         - 한 행을 상수배하여 다른 행에 더한다.
         - 두 행을 맞바꾼다.
 - 역행렬 이용
-    - 연립일차방정식 $$ AX = B $$ 에서 $$ A $$의 역행렬 $$ A^-1 $$ 가 존재하면, $$ X = A^-1B $$ 이다.
-    - 예를 들어, $$ \begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 5 \\ 8 \end{pmatrix} <=> \begin{pmatrix} x \\ y  \end{pmatrix} = \begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix}^-1 \begin{pmatrix} 5 \\ 8 \end{pmatrix} $$
+    - 연립일차방정식 $$ AX = B $$ 에서 $$ A $$의 역행렬 $$ A^{-1} $$ 가 존재하면, $$ X = A^-1B $$ 이다.
+    - 예를 들어, $$ \begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 5 \\ 8 \end{pmatrix} <=> \begin{pmatrix} x \\ y  \end{pmatrix} = \begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix}^{-1} \begin{pmatrix} 5 \\ 8 \end{pmatrix} $$
 
 <br/>
 
@@ -74,3 +74,4 @@ tags:
     3) 2 X 2 -> det $$ \begin{pmatrix} a_11 & a_12 \\ a_21 & a_22 \end{pmatrix} = a_11a_22 - a_12a_21 $$
 
     4) 3 X 3 -> det $$ \begin{pmatrix} a_11 & a_12 & a_13 \\ a_21 & a_22 & a_23 \\ a_31 & a_32 & a_33 \end{pmatrix} = a_11M_11 - a_12M_12 + a_13M_13 = a_11\begin{matrix} a_22 & a_23 \\ a_32 & a_33 \end{matrix} - a_12\begin{pmatrix} a_21 & a_23 \\ a_31 & a_33 \end{pmatrix} + a_13\begin{pmatrix} a_21 & a_22 \\ a_31 & a_32 \end{pmatrix} = a_11a_22a_33 + a_12a_23a_31 + a_13a_21a_32 - a_13a_22a_31 - a_11a_23a_32 - a_12a_21a_33 $$
+
