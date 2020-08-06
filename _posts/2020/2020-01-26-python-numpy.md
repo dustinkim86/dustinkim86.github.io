@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Numpy(넘파이)
-subtitle : Python
-tags: [Python]
-author: dustinkim86
-comments : True
+title: Numpy
+mathjax: true
+tags:
+  - python
 ---
+
+<br/>
 
 
 ## Numpy
