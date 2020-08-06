@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Statistics Analysis(통계 분석)
-subtitle : R language
-tags: [R]
-author: dustinkim86
-comments : True
+mathjax: true
+tags:
+  - R
 ---
+
+<br/>
 
 # 통계분석  
 
