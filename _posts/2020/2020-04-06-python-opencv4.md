@@ -1,13 +1,10 @@
 ---
 layout: post
-title: OpenCV(4)
-date: 2020-04-06
-summary: 캠(Cam)을 이용한 얼굴인식 테스트 / openCV Filter 테스트 / Naver 얼굴인식 API
-categories: Python
+title: OpenCV - 캠(Cam)을 이용하 얼굴인식 테스트 / OpenCV Filter Test / Naver 얼굴인식 API
 mathjax: true
+tags:
+  - python
 ---
-
-
 
 <br/>
 
