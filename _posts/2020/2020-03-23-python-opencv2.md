@@ -1,11 +1,12 @@
 ---
 layout: post
-title: OpenCV(2)
-date: 2020-03-23
-summary: 이미지 Masking, RGB 색상 조작, Object Detection(Haar 방식)을 이용한 이미지/동영상 얼굴&눈 인식
-categories: Python
+title: OpenCV - 이미지 Masking, RGB 색상 조작, Object Detection(Haar 방식)을 이용하 이미지/동영상 얼굴&눈 인식
 mathjax: true
+tags:
+  - python
 ---
+
+<br/>
 
 ### Image Masking
 
