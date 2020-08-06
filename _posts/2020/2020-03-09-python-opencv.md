@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenCV :: 모듈 설치와 이미지 조작하기
+title: OpenCV - 모듈 설치와 이미지 조작하기
 mathjax: true
 tags:
   - python
