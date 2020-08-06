@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Scikit-learn(사이킷런)
-subtitle : Python scikit-learn
-tags: [Python]
-author: dustinkim86
-comments : True
+title: Scikiy-learn
+mathjax: true
+tags:
+  - python
 ---
+
+<br/>
 
 
 ## 붓꽃 품종 예측하기
