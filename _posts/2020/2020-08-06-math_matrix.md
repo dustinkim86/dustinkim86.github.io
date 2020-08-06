@@ -50,3 +50,11 @@ tags:
         - $$ \begin{pmatrix} 1 & 2 & 5 \\ 2 & 3 & 8 \end{pmatrix} $$ 표현 --> 가우스 조던 소거법
         - $$ \begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 5 \\ 8 \end{pmatrix} $$ 표현 --> 역행렬 이용
 
+- 가우스 조던 소거법
+    - 다음 세 가지의 기본 행 연산을 통해 연립일차방정식의 첨가행렬을 기약 행 사다리꼴로 변환하여 해를 구한다.
+        - 한 행을 상수배한다.
+        - 한 행을 상수배하여 다른 행에 더한다.
+        - 두 행을 맞바꾼다.
+- 역행렬 이용
+    - 연립일차방정식 $$ AX = B $$ 에서 $$ A $$의 역행렬 $$ A^-1 $$ 가 존재하면, $$ X = A^-1B $$ 이다.
+    - 예를 들어, $$ \begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 5 \\ 8 \end{pmatrix} <=> \begin{pmatrix} x \\ y  \end{pmatrix} = \begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix}^-1 \begin{pmatrix} 5 \\ 8 \end{pmatrix} $$
