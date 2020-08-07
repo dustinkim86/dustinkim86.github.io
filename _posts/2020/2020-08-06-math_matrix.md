@@ -100,3 +100,6 @@ tags:
 ![image](https://user-images.githubusercontent.com/52812181/89615537-ceeabf00-d8c1-11ea-8143-27fab392657b.png)
 
 <br/>
+
+
+#### 출처 : [이상엽Math - 1강, 행렬과 행렬식](https://www.youtube.com/watch?v=83UnOz6HiOY)
