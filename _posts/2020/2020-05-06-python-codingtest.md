@@ -163,3 +163,18 @@ def commonCharacterCount(s1, s2):
     return return_sum
 ```
 <br/>
+
+### 11번(20.08.10)
+```python
+def isLucky(n):
+    left = str(n)[:len(str(n))//2]
+    right = str(n)[len(str(n))//2:]
+    left_sum = sum([int(i) for i in left])
+    right_sum = sum([int(i) for i in right])
+    if left_sum == right_sum:
+        return True
+    else:
+        return False
+
+```
+<br/>
