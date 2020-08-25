@@ -178,3 +178,21 @@ def isLucky(n):
 
 ```
 <br/>
+
+### 12번(20.08.25)
+```python
+def sortByHeight(a):
+    sort_list = []
+    for i in a:
+        if i != -1:
+            sort_list.append(i)
+    sort_list = sorted(sort_list)
+    return_list = []
+    for j in a:
+        if j == -1:
+            return_list.append(j)
+        else:
+            return_list.append(sort_list[0])
+            sort_list.pop(0)
+    return return_list
+```
