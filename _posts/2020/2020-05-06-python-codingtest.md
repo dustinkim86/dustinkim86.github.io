@@ -196,3 +196,31 @@ def sortByHeight(a):
             sort_list.pop(0)
     return return_list
 ```
+<br/>
+
+### 13번(20.09.07)
+```python
+def reverseInParentheses(inputString):
+    left = 0
+    right = 0
+    for i in range(len(inputString)):
+        if inputString[i] == "(":
+            left = i
+        if inputString[i] == ")":
+            right = i
+            
+            sequence = list(inputString)
+            a = sequence[left: right + 1]
+            a = a[::-1]
+            for j in range(len(a)):
+                sequence[left + j] = a[j]
+            
+            result = ""
+            for k in range(len(inputString)):
+                if k != left and k != right:
+                    result += sequence[k]
+            inputString = result
+            return reverseInParentheses(inputString)
+    return inputString
+```
+<br/>
